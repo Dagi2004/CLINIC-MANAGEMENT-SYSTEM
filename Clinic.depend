@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716806473 source:c:\users\mike\desktop\codes\clinic\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"sqlite3.h"
+
+1713203168 c:\users\mike\desktop\codes\clinic\sqlite3.h
+	<stdarg.h>
+
