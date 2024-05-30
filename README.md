@@ -21,3 +21,7 @@ The Clinic Management System is a comprehensive software solution designed to st
 C++ compiler
 
 SQLite3 library
+
+**License**
+
+The Clinic Management System is licensed under the MIT License. Please review the license terms for more information.
