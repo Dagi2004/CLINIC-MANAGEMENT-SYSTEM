@@ -17,7 +17,7 @@ The Clinic Management System is a comprehensive software solution designed to st
 
 ----------------------------------------------------------------------
 **Prerequisites**
----------------------------------------------------------------------
+
 C++ compiler
 
 SQLite3 library
