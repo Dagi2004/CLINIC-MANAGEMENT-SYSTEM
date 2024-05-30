@@ -9,3 +9,8 @@ Patient Management: The system allows you to easily store and access patient inf
 Reporting: The system provides comprehensive reporting  patient, staff and medical redcord. 
 
 User Management: The system offers staff level access to ensure security.
+
+
+**Prerequisites**
+C++ compiler
+SQLite3 library
