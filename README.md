@@ -1,3 +1,5 @@
+**C++ with SQLite3 database (Clinic Management System(CMS))**
+
 The Clinic Management System is a comprehensive software solution designed to streamline the day-to-day operations of healthcare clinics. This system provides a range of features to help manage patient records, staff records, Insert medical record and more, all within a user-friendly and secure platform.
 
 Features
