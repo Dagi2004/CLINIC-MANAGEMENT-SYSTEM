@@ -7,8 +7,7 @@ The Clinic Management System is a comprehensive software solution designed to st
 **Staff User:**
 
 - Full access to all CRUD operations.
-- Can manage student and teacher records.
-- Can view, add, update, and delete information.
+- Can view, add, update, and delete records.
 
 **Patient Management:** The system allows you to easily store and access patient information, including personal details, medical history.
 
